@@ -1,4 +1,5 @@
 Smart-Agriculture-Management-System
+
 This project manages farmer registrations, agricultural item distribution, and officer tracking using independent Spring Boot microservices.
 
 ===Microservices Included=====
@@ -6,6 +7,8 @@ This project manages farmer registrations, agricultural item distribution, and o
 Farmer Service → CRUD for farmers
 Distribution Service → Track seeds/fertilizer distributions
 Officer Service** → Assign and manage officers
+
+
 ##Tech Stack
 
 -Spring Boot
