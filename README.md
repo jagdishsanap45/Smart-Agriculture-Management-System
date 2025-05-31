@@ -8,15 +8,15 @@ Distribution Service → Track seeds/fertilizer distributions
 Officer Service** → Assign and manage officers
 ##Tech Stack
 
-Spring Boot
-Java 8
-Mysql
-Kafka
-Redis
-Jwt Security
-Swagger
-Eureka (Service Registry)
-Jenkins
-Email Service(Mail-Trap)
-Tomcat
-SonarQube
+-Spring Boot
+-Java 8
+-Mysql
+-Kafka
+-Redis
+-Jwt Security
+-Swagger
+-Eureka (Service Registry)
+-Jenkins
+-Email Service(Mail-Trap)
+-Tomcat
+-SonarQube
